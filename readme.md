@@ -1,6 +1,6 @@
-## This repository for basic undersatanding of dictionary typr in pyhton 
-### i created this code in jupyter notebook if you are beginner in python, open it in jupyter notebook
-# you will learn following terms
+## This repository for basic undersatanding of dictionary type in pyhton 
+### I created this code in jupyter notebook if you are beginner in python, open it in jupyter notebook
+# You will learn following things
 <ol>
 <li>
 how to create your own dictionary
