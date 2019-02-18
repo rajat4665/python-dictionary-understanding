@@ -8,5 +8,3 @@ how to create your own dictionary
 <li>keys vs value </li>
 <li>how to call specific value from a dictionary</li>
 <ol>
-  
- n, please open it in jupyter notebook
